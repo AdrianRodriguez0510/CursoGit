@@ -8,8 +8,8 @@ import java.util.Scanner;
 public class Sistema {
 
 
-
-/hjdsfhjksdhfsdhfkjhskhn
+//MAS CAMBIOS DESDE GITHUB
+//hjdsfhjksdhfsdhfkjhskhn
     public static void main(String[] args){
 
         int vector1[] = {5,10,15,20,25};
